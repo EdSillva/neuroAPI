@@ -1,5 +1,4 @@
-
-![logo_neuro](https://github.com/user-attachments/assets/aadfbe27-bd6d-49e8-991c-c5230d2fe1c8)
+![logo-home](https://github.com/user-attachments/assets/b68dc53e-6776-4167-98c5-e7d4b3dc1987)
 
 # Gerenciamento de Projetos e Competências
 
